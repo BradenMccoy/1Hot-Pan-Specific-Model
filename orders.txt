@@ -1,0 +1,81 @@
+ pc1
+
+Normal:
+lqmvpywfakthcngsdire
+
+Reversed:
+eridsgnchtkafwypvmql
+
+ pc2
+
+Normal:
+irfysltamqdwepvkhgnc
+
+Reversed:
+cnghkvpewdqmatlsyfri
+
+ pc3
+
+Normal:
+amgyinlspthecqdkfrwv
+
+Reversed:
+vwrfkdqcehtpslniygma
+
+ pc4
+
+Normal:
+rmglqynachtwvepskdif
+
+Reversed:
+fidkspevwthcanyqlgmr
+
+ pc5
+
+Normal:
+fpgreahkvsmdtqylniwc
+
+Reversed:
+cwinlyqtdmsvkhaergpf
+
+ CATEGORICAL
+
+ pc1
+
+Normal:
+cnhgdekrstiwapvfmylq
+
+Reversed:
+qlymfvpawitsrkedghnc
+
+ pc2
+
+Normal:
+vwcqknphmldgfeyrtsai
+
+Reversed:
+iastryefgdlmhpnkqcwv
+
+ pc3
+
+Normal:
+gevwmldqytihsrpackfn
+
+Reversed:
+nfkcaprshityqdlmwveg
+
+ pc4
+
+Normal:
+fpegdhtqvkinsacywrlm
+
+Reversed:
+mlrwycasnikvqthdgepf
+
+ pc5
+
+Normal:
+irvdqakpwmghfecsnlyt
+
+Reversed:
+tylnscefhgmwpkaqdvri
